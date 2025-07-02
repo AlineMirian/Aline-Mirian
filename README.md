@@ -1,7 +1,5 @@
 <h1> Aline-Mirian</h1>
 
-<br> <!--Esta tag é para espaço-->
-- 😱Eu não gostava de tecnologia!
 <!--Atalho para emojis tecla windows + . -->
 - <img src="https://cdn-icons-png.flaticon.com/128/4218/4218273.png" alt="Ícone Personalizado" width="20" height="20"> Advogada que descobriu o mundo de análises, processos, padrões e desafios que a programação proporciona e se apaixonou!
   <br>
@@ -21,11 +19,11 @@
 <i>
 <br />
   
-> Muito prazer, Aline Mirian! Advogada em transição de carreira para tecnoogia. Com sede de resolver problemas fui para a área do direito e metornei advogada, porém, por mutias vezes nessa área o cliente deseja estender o problema e não resolvê-lo. Então, decidi direcionar a paixão por processos e solucionar probleas para a tecnologia me dedicando 100% a essa transição de carreira e trazendo comigo a bagagem e experiencia que a advocacia me proporciona me tornando uma profissional organizada, comunicativa, curiosa que adora um desafio.
-  
->Faço parte da ONG Prototipando a Quebrada (PAQ), uma comunidade que busca inserir jovens de periferia na tecnologia, disponibilizando estudo e muito apoio para essa galera! Ser educanda do PAQ  é uma oportunidade incrível! 
+<h2>💻 Desenvolvedora Fullstack | Node.js • React • HTML/CSS/JS</h2>
 
-> Quero buscar minha oportunidade, agarrá-la e retribuir com o máximo que eu puder! Desejo ser uma profissional referência a qual todos possam contar. Vamos trocar uma ideia?
+>Desenvolvedora com formação em Direito e experiência sólida em comunicação e resolução de problemas. Construo aplicações web fullstack com foco em código limpo, boas práticas e soluções eficientes, utilizando tecnologias como Node.js, React e JavaScript.
+
+>Ex-profissional jurídica, aplico meu raciocínio analítico e habilidades interpessoais em ambientes colaborativos. Atualmente, integro a ONG PAQ (Prototipando a Quebrada), atuando em projetos práticos e com foco em evolução contínua.
 </i>
 <br />
 <br />
@@ -34,11 +32,11 @@
 <i>
 <br />
   
-> Nice to meet you, I'm Aline Mirian! A lawyer transitioning into a tech career. With a strong desire to solve problems, I initially pursued a career in law and became a lawyer. However, I often found that in this field, clients tend to prolong problems rather than solve them. That’s why I decided to redirect my passion for processes and problem-solving toward technology. I'm fully committed to this career transition, bringing with me the experience and background that law has provided—making me an organized, communicative, curious professional who loves a challenge.
+<h2>💻 Fullstack Developer | Node.js • React • HTML/CSS/JS</h2>
 
->I'm part of the NGO Prototipando a Quebrada (PAQ), a community focused on bringing youth from underserved areas into the world of technology, offering education and strong support. Being a PAQ student is an incredible opportunity!
+>Developer with a background in Law and solid experience in communication and problem-solving. I build fullstack web applications using modern technologies such as Node.js, React, and JavaScript, always aiming for clean code and efficient solutions.
 
->I'm looking for my opportunity, ready to grab it and give it my all in return! I want to become a go-to professional that people can rely on. Shall we connect?
+>Former legal professional with strong analytical and interpersonal skills, now applying that mindset in collaborative tech environments. Currently part of the  PAQ (Prototipando a Quebrada), actively working on real-world projects and constantly improving.
 </i>
 <br />
 
